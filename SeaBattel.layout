@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\Player.h" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="489" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="28" />
+			<Collapse line="41" />
+			<Collapse line="44" />
+			<Collapse line="47" />
+			<Collapse line="50" />
+			<Collapse line="53" />
+			<Collapse line="107" />
+			<Collapse line="120" />
+			<Collapse line="145" />
+			<Collapse line="152" />
+		</Folding>
+	</File>
+	<File name="include\Player_BOT.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7145" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="12" />
+			<Collapse line="16" />
+			<Collapse line="36" />
+			<Collapse line="39" />
+			<Collapse line="101" />
+			<Collapse line="138" />
+		</Folding>
+	</File>
+	<File name="include\LOutput_text.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1808" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="32" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22487" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="30" />
+			<Collapse line="40" />
+			<Collapse line="55" />
+			<Collapse line="129" />
+			<Collapse line="144" />
+			<Collapse line="148" />
+			<Collapse line="200" />
+			<Collapse line="267" />
+			<Collapse line="302" />
+			<Collapse line="335" />
+			<Collapse line="422" />
+			<Collapse line="423" />
+			<Collapse line="433" />
+			<Collapse line="455" />
+			<Collapse line="527" />
+			<Collapse line="653" />
+			<Collapse line="680" />
+			<Collapse line="729" />
+		</Folding>
+	</File>
+	<File name="include\LButton.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2586" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="14" />
+			<Collapse line="17" />
+			<Collapse line="23" />
+			<Collapse line="45" />
+			<Collapse line="54" />
+		</Folding>
+	</File>
+	<File name="include\LTexture.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3796" topLine="3" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="19" />
+			<Collapse line="22" />
+			<Collapse line="77" />
+		</Folding>
+	</File>
+	<File name="include\List_Records.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5439" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="18" />
+			<Collapse line="22" />
+			<Collapse line="32" />
+			<Collapse line="43" />
+			<Collapse line="94" />
+			<Collapse line="123" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
